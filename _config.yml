@@ -1,0 +1,28 @@
+name: xPowering
+favicon: null
+layout_spectrum: 0.4742092569358647
+typography_spectrum: 0.05282331211492419
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1415758510120213
+  lightness: 0.942438727710396
+  saturation: 0.037072309758514166
+  rhythmicContrast: 0.5259200059808791
+purpose: []
