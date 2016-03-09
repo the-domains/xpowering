@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[xPowering]]></title>
         <description><![CDATA[xPowering]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xpowering/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 20:25:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 00:12:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xpowering/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Home page for xPowering</p>]]></description>
-            <link>undefinedd816f759-221c-4df4-a1fb-bd0a200aa39b/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53b6f3420ba900a72807a41e9b32209d5072c3c4.jpg" alt="Big Bang" title="">]]></description>
+            <link>https://thegrid.ai/xpowering/d816f759-221c-4df4-a1fb-bd0a200aa39b/index.html</link>
             <guid isPermaLink="false">d816f759-221c-4df4-a1fb-bd0a200aa39b</guid>
-            <pubDate>Tue, 08 Mar 2016 20:25:09 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 00:11:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
